@@ -7,7 +7,7 @@ Here you will find a pleathora of tasty, nutritious, and economical recepies, al
 Soups
 -----
 
-soups/tomato.rst
+  soups/tomato.rst
  
 Mains
 -----
